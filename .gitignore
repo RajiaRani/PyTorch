@@ -16,3 +16,5 @@ __pycache__/
 *.csv
 data/
 datasets/
+01. ANN/fmnist_small.csv
+01. ANN/*.csv
