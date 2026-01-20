@@ -20,3 +20,5 @@ datasets/
 01. ANN/*.csv
 02. CNN/fmnist_small.csv
 03. RNN/100_Unique_QA_Dataset.csv
+04. LSTM/100_Unique_QA_Dataset.csv
+05. GRU/100_Unique_QA_Dataset.csv
