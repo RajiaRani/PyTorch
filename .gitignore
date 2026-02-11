@@ -22,3 +22,5 @@ datasets/
 03. RNN/100_Unique_QA_Dataset.csv
 04. LSTM/100_Unique_QA_Dataset.csv
 05. GRU/100_Unique_QA_Dataset.csv
+Optuna/fmnist_small.csv
+Optuna/*.csv
