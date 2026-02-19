@@ -24,3 +24,4 @@ datasets/
 05. GRU/100_Unique_QA_Dataset.csv
 Optuna/fmnist_small.csv
 Optuna/*.csv
+07.CNN_ALL_Arcitecture/*csv
